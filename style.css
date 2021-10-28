@@ -32,10 +32,10 @@ body {
     width: 50%;
 }
 
-/*.instagram-phone img {
+.instagram-phone img {
     height: 50rem;
 }
-*/
+
 .instragram-continue {
     display: flex;
     align-items: center; /* horizontal */
